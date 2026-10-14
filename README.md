@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0233-number-of-digit-one) |
+| [1143-longest-common-subsequence](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
