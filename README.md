@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Math
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
