@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -74,4 +75,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
