@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0090-subsets-ii) |
 ## Tree
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
