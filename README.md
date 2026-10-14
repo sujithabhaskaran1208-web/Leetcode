@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0039-combination-sum) |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
@@ -41,9 +42,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
