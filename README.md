@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
@@ -29,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Math
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
