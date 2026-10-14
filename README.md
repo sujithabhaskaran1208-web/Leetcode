@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
