@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0233-number-of-digit-one) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
