@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0090-subsets-ii) |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
