@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0039-combination-sum) |
+| [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sujithabhaskaran1208-web/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
